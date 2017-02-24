@@ -20,6 +20,8 @@ From that output, you will get a structured blob with keys, and look for: data_p
 
 ## Relevant Links: 
 
+* [Attestation](https://github.com/decentralized-identity/attestations/tree/master/implementations/azure)
+
 * [Onename](https://onename.com/settings)
 
 * [Blockstack - Docs](https://blockstack.org/docs)
